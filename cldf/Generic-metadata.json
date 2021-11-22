@@ -14,12 +14,12 @@
     },
     "dc:identifier": "http://dx.doi.org/10.1038/s41559-018-0489-3",
     "dc:source": "sources.bib",
-    "dcat:accessURL": "https://github.com/D-PLACE/dplace-tree-bouckaert_et_al2018",
+    "dcat:accessURL": "https://github.com/phlorest/bouckaert_et_al2018",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/D-PLACE/dplace-tree-bouckaert_et_al2018",
+            "rdf:about": "https://github.com/phlorest/bouckaert_et_al2018",
             "rdf:type": "prov:Entity",
-            "dc:created": "a423edf",
+            "dc:created": "d9e556d",
             "dc:title": "Repository"
         },
         {
