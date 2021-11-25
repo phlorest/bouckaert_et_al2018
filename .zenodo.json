@@ -1,0 +1,15 @@
+{
+    "title": null,
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Bouckaert RR, Bowern C &amp; Atkinson QD. 2018. The origin and expansion of Pama\u2013Nyungan languages across Australia. Nature Ecology and Evolution. 2: 741\u2013749</p>\n</blockquote>",
+    "communities": [
+        {
+            "identifier": "dplace"
+        }
+    ]
+}

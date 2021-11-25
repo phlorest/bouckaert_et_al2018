@@ -1,7 +1,6 @@
 import pathlib
 
 import phlorest
-from tqdm import tqdm
 
 
 class Dataset(phlorest.Dataset):
@@ -10,20 +9,20 @@ class Dataset(phlorest.Dataset):
 
     def cmd_makecldf(self, args):
         self.init(args)
-        with self.nexus_summary() as nex:
-            self.add_tree_from_nexus(
-                args,
-                self.raw_dir / '41559_2018_489_MOESM4_ESM.txt',
-                nex,
-                'summary',
-            )
+        args.writer.add_summary(
+            self.raw_dir.read_tree('41559_2018_489_MOESM4_ESM.txt'),
+            self.metadata,
+            args.log)
         posterior = self.sample(
-            self.read_gzipped_text(self.raw_dir / 'pny10.fixed.cov.ucln.bdsky.ba-sp.trees.gz'),
+            self.raw_dir.read('pny10.fixed.cov.ucln.bdsky.ba-sp.trees.gz'),
             detranslate=True,
             as_nexus=True)
-
-        with self.nexus_posterior() as nex:
-            for i, tree in tqdm(enumerate(posterior.trees.trees, start=1), total=1000):
-                self.add_tree(args, tree, nex, 'posterior-{}'.format(i))
-
-        self.add_data(args, phlorest.BeastFile(self.raw_dir / '41559_2018_489_MOESM3_ESM.xml'))
+        args.writer.add_posterior(
+            posterior.trees.trees,
+            self.metadata,
+            args.log,
+            verbose=True)
+        args.writer.add_data(
+            phlorest.BeastFile(self.raw_dir / '41559_2018_489_MOESM3_ESM.xml'),
+            self.characters,
+            args.log)

@@ -2,8 +2,7 @@ appdirs==1.4.3
 bs4==0.0.1
 certifi==2019.11.28
 chardet==3.0.4
-cldfbench==1.7.2
--e git+https://github.com/phlorest/zhang_et_al2020.git@9a3e90575ba0a6072c68fd3d49858d4237786d46#egg=cldfbench_zhang_et_al2020
+cldfbench==1.9.0
 cldfcatalog==1.3.2
 clldutils==3.10.0
 colorama==0.4.3
@@ -21,7 +20,8 @@ newick==1.3.1
 numpy==1.21.1
 openpyxl==3.0.7
 packaging==20.3
--e git+https://github.com/cldf/phlorest@b05bf58287c37f02f3ddce794649ac5a2228d56d#egg=phlorest
+-e git+https://github.com/phlorest/phlorest@e3e6e7076be46b96a389f1fba35c0526487e26f4#egg=phlorest
+pkg_resources==0.0.0
 pluggy==0.13.1
 purl==1.6
 py==1.10.0
@@ -33,6 +33,8 @@ pycountry==20.7.3
 pyglottolog==3.6.0
 PyQt5==5.15.5
 pytest==6.2.4
+python-dateutil==2.8.2
+python-nexus==2.4.1
 requests==2.22.0
 rfc3986==1.5.0
 six==1.14.0
