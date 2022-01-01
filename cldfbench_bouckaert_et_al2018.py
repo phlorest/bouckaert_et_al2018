@@ -14,14 +14,15 @@ class Dataset(phlorest.Dataset):
             self.metadata,
             args.log)
         posterior = self.sample(
-            self.raw_dir.read('pny10.fixed.cov.ucln.bdsky.ba-sp.trees.gz'),
+            self.remove_burnin(
+                self.raw_dir.read('pny10.fixed.cov.ucln.bdsky.ba-sp.trees.gz'),
+                1000),
             detranslate=True,
             as_nexus=True)
         args.writer.add_posterior(
             posterior.trees.trees,
             self.metadata,
-            args.log,
-            verbose=True)
+            args.log)
         args.writer.add_data(
             phlorest.BeastFile(self.raw_dir / '41559_2018_489_MOESM3_ESM.xml'),
             self.characters,
