@@ -1,4 +1,6 @@
-# Dataset bouckaert_et_al2018
+# Phlorest phylogeny derived from Bouckaert et al. 2018 'Pama-Nyungan (Bouckaert et al. 2018)'
+
+[![CLDF validation](https://github.com/phlorest/bouckaert_et_al2018/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/bouckaert_et_al2018/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -10,7 +12,9 @@ If you use these data please cite
 ## Description
 
 
-Available online at http://dx.doi.org/10.1038/s41559-018-0489-3
+This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
+
+Available online at https://doi.org/10.1038/s41559-018-0489-3
 
 
 ## CLDF Datasets

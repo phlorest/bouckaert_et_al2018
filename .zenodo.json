@@ -1,5 +1,5 @@
 {
-    "title": null,
+    "title": "Phlorest phylogeny derived from Bouckaert et al. 2018 'Pama-Nyungan (Bouckaert et al. 2018)'",
     "access_right": "open",
     "keywords": [
         "cldf:Generic",
@@ -10,6 +10,23 @@
     "communities": [
         {
             "identifier": "dplace"
+        }
+    ],
+    "creators": [
+        {
+            "name": "Bouckaert, Remco R."
+        },
+        {
+            "name": "Bowern, Claire"
+        },
+        {
+            "name": "Atkinson, Quentin D."
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
         }
     ]
 }
