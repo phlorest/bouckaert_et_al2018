@@ -1,4 +1,4 @@
-# Phlorest phylogeny derived from Bouckaert et al. 2018 'Pama-Nyungan (Bouckaert et al. 2018)'
+# Phlorest phylogeny derived from Bouckaert et al. 2018 'The origin and expansion of Pama–Nyungan languages across Australia'
 
 [![CLDF validation](https://github.com/phlorest/bouckaert_et_al2018/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/bouckaert_et_al2018/actions?query=workflow%3ACLDF-validation)
 
@@ -11,10 +11,12 @@ If you use these data please cite
 
 ## Description
 
+A [Phlorest phylogeny](https://github.com/phlorest) of the Pama-Nyungan language family computed from a bayesian analysis scaled by years.
+
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
 
-Available online at https://doi.org/10.1038/s41559-018-0489-3
+Source available online at https://doi.org/10.1038/s41559-018-0489-3
 
 
 ## CLDF Datasets
@@ -25,4 +27,4 @@ The following CLDF datasets are available in [cldf](cldf):
 
 ## Summary Tree
 
-![summary](./summary_tree.svg)
+![summary](https://raw.githubusercontent.com/phlorest/bouckaert_et_al2018/main/summary_tree.svg)

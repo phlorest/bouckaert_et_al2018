@@ -15,7 +15,7 @@
         "analysis": "bayesian",
         "scaling": "years"
     },
-    "dc:title": "Phlorest phylogeny derived from Bouckaert et al. 2018 'Pama-Nyungan (Bouckaert et al. 2018)'",
+    "dc:title": "Phlorest phylogeny derived from Bouckaert et al. 2018 'The origin and expansion of Pama\u2013Nyungan languages across Australia'",
     "dcat:accessURL": "https://github.com/phlorest/bouckaert_et_al2018",
     "prov:wasDerivedFrom": [
         {
@@ -32,7 +32,7 @@
         {
             "rdf:about": "https://github.com/phlorest/bouckaert_et_al2018",
             "rdf:type": "prov:Entity",
-            "dc:created": "82a9b64",
+            "dc:created": "e3e0d78",
             "dc:title": "Repository"
         },
         {
