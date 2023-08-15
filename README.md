@@ -1,6 +1,7 @@
 # Phlorest phylogeny derived from Bouckaert et al. 2018 'The origin and expansion of Pama–Nyungan languages across Australia'
 
 [![CLDF validation](https://github.com/phlorest/bouckaert_et_al2018/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/bouckaert_et_al2018/actions?query=workflow%3ACLDF-validation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8249941.svg)](https://doi.org/10.5281/zenodo.8249941)
 
 ## How to cite
 
