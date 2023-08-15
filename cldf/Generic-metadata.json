@@ -8,7 +8,7 @@
     "dc:bibliographicCitation": "Bouckaert RR, Bowern C & Atkinson QD. 2018. The origin and expansion of Pama\u2013Nyungan languages across Australia. Nature Ecology and Evolution. 2: 741\u2013749",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
     "dc:identifier": "https://doi.org/10.1038/s41559-018-0489-3",
-    "dc:license": "https://creativecommons.org/licenses/by/2.0/",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:subject": {
         "family": "Pama-Nyungan",
@@ -32,7 +32,7 @@
         {
             "rdf:about": "https://github.com/phlorest/bouckaert_et_al2018",
             "rdf:type": "prov:Entity",
-            "dc:created": "e3e0d78",
+            "dc:created": "255ccc9",
             "dc:title": "Repository"
         },
         {
@@ -45,7 +45,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.10.6"
+            "dc:description": "3.10.12"
         },
         {
             "dc:title": "python-packages",
