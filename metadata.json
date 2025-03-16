@@ -11,5 +11,6 @@
     "analysis": "bayesian",
     "family": "Pama-Nyungan",
     "data": "https://zenodo.org/record/1320471",
+    "artefacts": ["raw/41559_2018_489_moesm3_esm.xml"],
     "missing": {}
 }
