@@ -1,0 +1,4422 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.671,
+          -30.1451
+        ]
+      },
+      "properties": {
+        "Name": "Adnyamathanha",
+        "Glottocode": "adny1235",
+        "Glottolog_Name": "Adnyamathanha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.426,
+          -13.735
+        ]
+      },
+      "properties": {
+        "Name": "AghuTharrnggala",
+        "Glottocode": "aghu1254",
+        "Glottolog_Name": "Aghu Tharnggalu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.938,
+          -12.5324
+        ]
+      },
+      "properties": {
+        "Name": "Alngith",
+        "Glottocode": "alng1239",
+        "Glottolog_Name": "Alngith"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.835,
+          -21.0427
+        ]
+      },
+      "properties": {
+        "Name": "Alyawarr",
+        "Glottocode": "alya1239",
+        "xd_ids": [
+          "xd964"
+        ],
+        "Glottolog_Name": "Alyawarr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.67,
+          -20.1494
+        ]
+      },
+      "properties": {
+        "Name": "Aminungo",
+        "Glottocode": "biri1256",
+        "Glottolog_Name": "Biri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.046,
+          -23.3583
+        ]
+      },
+      "properties": {
+        "Name": "Antekerrepenhe",
+        "Glottocode": "east2379",
+        "Glottolog_Name": "Eastern Arrernte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.449,
+          -28.705
+        ]
+      },
+      "properties": {
+        "Name": "Arabana",
+        "Glottocode": "arab1267",
+        "Glottolog_Name": "Arabana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.43555,
+          -33.12847
+        ]
+      },
+      "properties": {
+        "Name": "Awabakal",
+        "Glottocode": "awab1243",
+        "Glottolog_Name": "Awabakal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.893,
+          -14.6652
+        ]
+      },
+      "properties": {
+        "Name": "Ayapathu",
+        "Glottocode": "ayab1239",
+        "xd_ids": [
+          "xd945"
+        ],
+        "Glottolog_Name": "Yintyinka-Ayabadhu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.246,
+          -29.0647
+        ]
+      },
+      "properties": {
+        "Name": "Badimaya",
+        "Glottocode": "badi1246",
+        "Glottolog_Name": "Badimaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.47,
+          -28.79
+        ]
+      },
+      "properties": {
+        "Name": "Badjiri",
+        "Glottocode": "badj1244",
+        "Glottolog_Name": "Badjirri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.20543,
+          -35.5756
+        ]
+      },
+      "properties": {
+        "Name": "Balkurra",
+        "Glottocode": "yara1254",
+        "Glottolog_Name": "Yaraldi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.67,
+          -20.1494
+        ]
+      },
+      "properties": {
+        "Name": "Barna",
+        "Glottocode": "biri1256",
+        "Glottolog_Name": "Biri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.531,
+          -14.1219
+        ]
+      },
+      "properties": {
+        "Name": "BarrowPoint",
+        "Glottocode": "barr1247",
+        "Glottolog_Name": "Barrow Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.15399,
+          -25.44486
+        ]
+      },
+      "properties": {
+        "Name": "Batyala",
+        "Glottocode": "baty1234",
+        "Glottolog_Name": "Butchulla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.699,
+          -24.9793
+        ]
+      },
+      "properties": {
+        "Name": "Bayali",
+        "Glottocode": "baya1257",
+        "Glottolog_Name": "Bayali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.67,
+          -20.1494
+        ]
+      },
+      "properties": {
+        "Name": "Belyando",
+        "Glottocode": "biri1256",
+        "Glottolog_Name": "Biri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.17375,
+          -34.90831
+        ]
+      },
+      "properties": {
+        "Name": "Bibbulman",
+        "Glottocode": "bibb1234",
+        "Glottolog_Name": "Bibbulman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.604,
+          -25.6896
+        ]
+      },
+      "properties": {
+        "Name": "BidyaraGungabula",
+        "Glottocode": "gung1248",
+        "Glottolog_Name": "Gungabula"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.515,
+          -28.266
+        ]
+      },
+      "properties": {
+        "Name": "Bigambal",
+        "Glottocode": "biga1237",
+        "Glottolog_Name": "Bigambal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.651,
+          -15.4661
+        ]
+      },
+      "properties": {
+        "Name": "Bilinarra",
+        "Glottocode": "ngar1235",
+        "Glottolog_Name": "Ngarinman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.002766,
+          -19.409007
+        ]
+      },
+      "properties": {
+        "Name": "Bindal",
+        "Glottocode": "bind1236",
+        "Glottolog_Name": "Bindal-Mount Elliot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.53965852318,
+          -38.155612905976
+        ]
+      },
+      "properties": {
+        "Name": "Bindjali",
+        "Glottocode": "warr1257",
+        "Glottolog_Name": "Warrnambool"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.67,
+          -20.1494
+        ]
+      },
+      "properties": {
+        "Name": "Biri",
+        "Glottocode": "biri1256",
+        "Glottolog_Name": "Biri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3490464,
+          -33.52925837
+        ]
+      },
+      "properties": {
+        "Name": "Birrpayi",
+        "Glottocode": "sydn1236",
+        "Glottolog_Name": "Sydney"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.1566659,
+          -21.02656922
+        ]
+      },
+      "properties": {
+        "Name": "Bularnu",
+        "Glottocode": "bula1255",
+        "Glottolog_Name": "Bularnu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5,
+          -36.5
+        ]
+      },
+      "properties": {
+        "Name": "Bunganditj",
+        "Glottocode": "bung1264",
+        "Glottolog_Name": "Bunganditj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.286,
+          -22.2853
+        ]
+      },
+      "properties": {
+        "Name": "CentralAnmatyerr",
+        "Glottocode": "anma1239",
+        "Glottolog_Name": "Anmatyerre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2680442,
+          -27.42523643
+        ]
+      },
+      "properties": {
+        "Name": "ChampionBay",
+        "Glottocode": "nhan1238",
+        "Glottolog_Name": "Nhanda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.422444,
+          -38.471266
+        ]
+      },
+      "properties": {
+        "Name": "Colac",
+        "Glottocode": "cola1237",
+        "Glottolog_Name": "Colac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.4602773,
+          -27.87647555
+        ]
+      },
+      "properties": {
+        "Name": "Coobenpil",
+        "Glottocode": "yaga1256",
+        "Glottolog_Name": "Yagara-Jandai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.3453957,
+          -19.85103121
+        ]
+      },
+      "properties": {
+        "Name": "Coonambella",
+        "Glottocode": "wulg1239",
+        "Glottolog_Name": "Wulguru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.868,
+          -26.248
+        ]
+      },
+      "properties": {
+        "Name": "Dalla",
+        "Glottocode": "waka1274",
+        "Glottolog_Name": "Wakawaka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.43555,
+          -33.12847
+        ]
+      },
+      "properties": {
+        "Name": "Darkinyung",
+        "Glottocode": "awab1243",
+        "Glottolog_Name": "Awabakal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.868,
+          -26.248
+        ]
+      },
+      "properties": {
+        "Name": "DawsonRiver",
+        "Glottocode": "waka1274",
+        "Glottolog_Name": "Wakawaka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.752,
+          -11.9493
+        ]
+      },
+      "properties": {
+        "Name": "Dhangu",
+        "Glottocode": "dhan1270",
+        "Glottolog_Name": "Dhangu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.721,
+          -34.634
+        ]
+      },
+      "properties": {
+        "Name": "Dharawal",
+        "Glottocode": "thur1254",
+        "Glottolog_Name": "Thurawal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.273359,
+          -25.192664
+        ]
+      },
+      "properties": {
+        "Name": "Dharawala",
+        "Glottocode": "bidy1243",
+        "Glottolog_Name": "Bidyara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3490464,
+          -33.52925837
+        ]
+      },
+      "properties": {
+        "Name": "Dharuk",
+        "Glottocode": "sydn1236",
+        "Glottolog_Name": "Sydney"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.593,
+          -23.307
+        ]
+      },
+      "properties": {
+        "Name": "Dharumbal",
+        "Glottocode": "dhar1248",
+        "Glottolog_Name": "Dharumbal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0450379,
+          -36.95881441
+        ]
+      },
+      "properties": {
+        "Name": "Dhudhuroa",
+        "Glottocode": "dhud1236",
+        "Glottolog_Name": "Dhudhuroa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.134,
+          -35.412
+        ]
+      },
+      "properties": {
+        "Name": "Dhurga",
+        "Glottocode": "dhur1239",
+        "Glottolog_Name": "Dhurga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.008,
+          -12.7825
+        ]
+      },
+      "properties": {
+        "Name": "Dhuwal",
+        "Glottocode": "dhuw1249",
+        "xd_ids": [
+          "xd777"
+        ],
+        "Glottolog_Name": "Dhuwal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.0,
+          -28.1667
+        ]
+      },
+      "properties": {
+        "Name": "Diyari",
+        "Glottocode": "dier1241",
+        "xd_ids": [
+          "xd779"
+        ],
+        "Glottolog_Name": "Dieri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.388,
+          -16.596
+        ]
+      },
+      "properties": {
+        "Name": "Djabugay",
+        "Glottocode": "dyaa1242",
+        "Glottolog_Name": "Dyaabugay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.417978,
+          -12.879764
+        ]
+      },
+      "properties": {
+        "Name": "Djapu",
+        "Glottocode": "djap1238",
+        "Glottolog_Name": "Djapu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.82,
+          -12.462
+        ]
+      },
+      "properties": {
+        "Name": "Djinang",
+        "Glottocode": "djin1253",
+        "Glottolog_Name": "Djinang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.4602773,
+          -27.87647555
+        ]
+      },
+      "properties": {
+        "Name": "Durubul",
+        "Glottocode": "yaga1256",
+        "xd_ids": [
+          "xd961"
+        ],
+        "Glottolog_Name": "Yagara-Jandai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.345,
+          -25.3987
+        ]
+      },
+      "properties": {
+        "Name": "Duungidjawu",
+        "Glottocode": "duun1241",
+        "xd_ids": [
+          "xd962"
+        ],
+        "Glottolog_Name": "Duungidjawu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.544,
+          -17.4516
+        ]
+      },
+      "properties": {
+        "Name": "Dyirbal",
+        "Glottocode": "dyir1250",
+        "xd_ids": [
+          "xd954",
+          "xd957"
+        ],
+        "Glottolog_Name": "Dyirbal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.911,
+          -31.7154
+        ]
+      },
+      "properties": {
+        "Name": "Eucla",
+        "Glottocode": "kala1379",
+        "Glottolog_Name": "Kalarko-Mirniny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.259,
+          -14.1812
+        ]
+      },
+      "properties": {
+        "Name": "FlindersIsland",
+        "Glottocode": "flin1247",
+        "xd_ids": [
+          "xd947"
+        ],
+        "Glottolog_Name": "Flinders Island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.543,
+          -29.9037
+        ]
+      },
+      "properties": {
+        "Name": "Gamilaraay",
+        "Glottocode": "gami1243",
+        "Glottolog_Name": "Yuwaalaraay-Gamilaraay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.426,
+          -17.5446
+        ]
+      },
+      "properties": {
+        "Name": "Ganggalida",
+        "Glottocode": "gang1267",
+        "Glottolog_Name": "Ganggalida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.416,
+          -22.7637
+        ]
+      },
+      "properties": {
+        "Name": "Gangulu",
+        "Glottocode": "gang1268",
+        "Glottolog_Name": "Gangulu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.929,
+          -28.136
+        ]
+      },
+      "properties": {
+        "Name": "Garlali",
+        "Glottocode": "kala1380",
+        "Glottolog_Name": "Bulloo River"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.082,
+          -27.803
+        ]
+      },
+      "properties": {
+        "Name": "GlenInnes",
+        "Glottocode": "yuga1244",
+        "Glottolog_Name": "Yugambal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.877,
+          -12.0853
+        ]
+      },
+      "properties": {
+        "Name": "Golpa",
+        "Glottocode": "yann1237",
+        "Glottolog_Name": "Nhangu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.175,
+          -25.3893
+        ]
+      },
+      "properties": {
+        "Name": "GoorengGooreng",
+        "Glottocode": "gure1255",
+        "Glottolog_Name": "Gureng Gureng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.943,
+          -18.3727
+        ]
+      },
+      "properties": {
+        "Name": "GraniteRange",
+        "Glottocode": "wami1239",
+        "Glottolog_Name": "Wamin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5768928,
+          -10.91613599
+        ]
+      },
+      "properties": {
+        "Name": "Gudang",
+        "Glottocode": "guda1244",
+        "Glottolog_Name": "Gudang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6482584,
+          -19.44157406
+        ]
+      },
+      "properties": {
+        "Name": "Gudjal",
+        "Glottocode": "gudj1237",
+        "Glottolog_Name": "Gudjal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.46,
+          -18.4921
+        ]
+      },
+      "properties": {
+        "Name": "GuguBadhun",
+        "Glottocode": "gugu1253",
+        "Glottolog_Name": "Gugu Badhun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.349,
+          -15.538
+        ]
+      },
+      "properties": {
+        "Name": "Gugumini",
+        "Glottocode": "ikar1243",
+        "Glottolog_Name": "Ikaranggal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.83042,
+          -12.25254
+        ]
+      },
+      "properties": {
+        "Name": "Gumatj",
+        "Glottocode": "guma1253",
+        "Glottolog_Name": "Gumatj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.913,
+          -29.8189
+        ]
+      },
+      "properties": {
+        "Name": "Gumbaynggir",
+        "Glottocode": "kumb1268",
+        "Glottolog_Name": "Kumbainggar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6694397,
+          -34.13829932
+        ]
+      },
+      "properties": {
+        "Name": "Gunditjmara",
+        "Glottocode": "west2443",
+        "Glottolog_Name": "Western Victoria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1,
+          -34.85
+        ]
+      },
+      "properties": {
+        "Name": "Gundungurra",
+        "Glottocode": "nort2760",
+        "Glottolog_Name": "Northern Inland Yuin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.222,
+          -24.2182
+        ]
+      },
+      "properties": {
+        "Name": "Gunggari",
+        "Glottocode": "kung1258",
+        "Glottolog_Name": "Kunggari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.862,
+          -27.0642
+        ]
+      },
+      "properties": {
+        "Name": "Gunya",
+        "Glottocode": "guny1241",
+        "Glottolog_Name": "Gunya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.337,
+          -12.2868
+        ]
+      },
+      "properties": {
+        "Name": "Gupapuyngu",
+        "Glottocode": "gupa1247",
+        "Glottolog_Name": "Gupapuyngu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.379,
+          -17.0329
+        ]
+      },
+      "properties": {
+        "Name": "Gurindji",
+        "Glottocode": "guri1247",
+        "Glottolog_Name": "Gurindji"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.831,
+          -14.9424
+        ]
+      },
+      "properties": {
+        "Name": "GuuguYimidhirr",
+        "Glottocode": "gugu1255",
+        "Glottolog_Name": "Guugu Yimidhirr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5243782,
+          -21.35147706
+        ]
+      },
+      "properties": {
+        "Name": "Guwa",
+        "Glottocode": "guwa1242",
+        "Glottolog_Name": "Guwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.867,
+          -27.8289
+        ]
+      },
+      "properties": {
+        "Name": "Guwamu",
+        "Glottocode": "guwa1243",
+        "Glottolog_Name": "Guwamu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3998245,
+          -27.16698973
+        ]
+      },
+      "properties": {
+        "Name": "Guwar",
+        "Glottocode": "guwa1244",
+        "Glottolog_Name": "Guwar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.661,
+          -34.739
+        ]
+      },
+      "properties": {
+        "Name": "Guyani",
+        "Glottocode": "guya1249",
+        "Glottolog_Name": "Guyani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.53965852318,
+          -38.155612905976
+        ]
+      },
+      "properties": {
+        "Name": "HOPKINSRIVER",
+        "Glottocode": "warr1257",
+        "Glottolog_Name": "Warrnambool"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4952383,
+          -33.11470744
+        ]
+      },
+      "properties": {
+        "Name": "Hawkesbury",
+        "Glottocode": "hawk1239",
+        "Glottolog_Name": "Hawkesbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.145,
+          -17.1653
+        ]
+      },
+      "properties": {
+        "Name": "Ikarranggal",
+        "Glottocode": "gurd1238",
+        "Glottolog_Name": "Gurdjar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.242,
+          -11.443
+        ]
+      },
+      "properties": {
+        "Name": "Injinoo",
+        "Glottocode": "angg1238",
+        "Glottolog_Name": "Angkamuthi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.246,
+          -29.0647
+        ]
+      },
+      "properties": {
+        "Name": "IrwinMurchison",
+        "Glottocode": "badi1246",
+        "Glottolog_Name": "Badimaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3490464,
+          -33.52925837
+        ]
+      },
+      "properties": {
+        "Name": "Iyora",
+        "Glottocode": "sydn1236",
+        "Glottolog_Name": "Sydney"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.7169306,
+          -37.06227181
+        ]
+      },
+      "properties": {
+        "Name": "Jaitmatang",
+        "Glottocode": "sout2771",
+        "Glottolog_Name": "Southern Coastal Yuin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.46239,
+          -27.56865
+        ]
+      },
+      "properties": {
+        "Name": "Janday",
+        "Glottocode": "jand1248",
+        "Glottolog_Name": "Jandai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.262,
+          -18.3288
+        ]
+      },
+      "properties": {
+        "Name": "Jaru",
+        "Glottocode": "jaru1254",
+        "xd_ids": [
+          "xd956"
+        ],
+        "Glottolog_Name": "Jaru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.262,
+          -18.3288
+        ]
+      },
+      "properties": {
+        "Name": "JaruMcC",
+        "Glottocode": "jaru1254",
+        "Glottolog_Name": "Jaru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.98858,
+          -24.10724
+        ]
+      },
+      "properties": {
+        "Name": "Jiwarli",
+        "Glottocode": "djiw1241",
+        "Glottolog_Name": "Djiwarli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.113,
+          -19.7229
+        ]
+      },
+      "properties": {
+        "Name": "Jiwarliny",
+        "Glottocode": "walm1241",
+        "Glottolog_Name": "Walmajarri-Juwaliny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.196,
+          -10.6748
+        ]
+      },
+      "properties": {
+        "Name": "KKY",
+        "Glottocode": "kala1377",
+        "xd_ids": [
+          "xd937"
+        ],
+        "Glottolog_Name": "Kala Lagaw Ya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.196,
+          -10.6748
+        ]
+      },
+      "properties": {
+        "Name": "KLY",
+        "Glottocode": "kala1377",
+        "Glottolog_Name": "Kala Lagaw Ya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.893,
+          -13.3243
+        ]
+      },
+      "properties": {
+        "Name": "Kaanju",
+        "Glottocode": "kanj1260",
+        "Glottolog_Name": "Kanju"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.223,
+          -30.245
+        ]
+      },
+      "properties": {
+        "Name": "Kalaamaya",
+        "Glottocode": "kala1401",
+        "Glottolog_Name": "Kalaamaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5,
+          -21.0
+        ]
+      },
+      "properties": {
+        "Name": "Kalkatungu",
+        "Glottocode": "kalk1246",
+        "Glottolog_Name": "Kalkatungu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.543,
+          -29.9037
+        ]
+      },
+      "properties": {
+        "Name": "Kamilaroi",
+        "Glottocode": "gami1243",
+        "Glottolog_Name": "Yuwaalaraay-Gamilaraay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.35448,
+          -33.4956
+        ]
+      },
+      "properties": {
+        "Name": "Kaniyang",
+        "Glottocode": "kani1276",
+        "Glottolog_Name": "Kaniyang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.334,
+          -18.6771
+        ]
+      },
+      "properties": {
+        "Name": "Karajarri",
+        "Glottocode": "kara1476",
+        "xd_ids": [
+          "xd953"
+        ],
+        "Glottolog_Name": "Karadjeri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.334,
+          -18.6771
+        ]
+      },
+      "properties": {
+        "Name": "KarajarriNW",
+        "Glottocode": "kara1476",
+        "Glottolog_Name": "Karadjeri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.613,
+          -20.445
+        ]
+      },
+      "properties": {
+        "Name": "Kariyarra",
+        "Glottocode": "kari1304",
+        "xd_ids": [
+          "xd780"
+        ],
+        "Glottolog_Name": "Kariyarra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.43555,
+          -33.12847
+        ]
+      },
+      "properties": {
+        "Name": "Karree",
+        "Glottocode": "awab1243",
+        "Glottolog_Name": "Awabakal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.73213,
+          -23.27912
+        ]
+      },
+      "properties": {
+        "Name": "Kartujarra",
+        "Glottocode": "kart1247",
+        "Glottolog_Name": "Kartujarra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.026291,
+          -25.833018
+        ]
+      },
+      "properties": {
+        "Name": "Karuwali",
+        "Glottocode": "karr1236",
+        "xd_ids": [
+          "xd963"
+        ],
+        "Glottolog_Name": "Karruwali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.107,
+          -32.4806
+        ]
+      },
+      "properties": {
+        "Name": "Katthang",
+        "Glottocode": "wori1245",
+        "Glottolog_Name": "Worimi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.4800794,
+          -34.34966141
+        ]
+      },
+      "properties": {
+        "Name": "Kaurna",
+        "Glottocode": "kaur1267",
+        "xd_ids": [
+          "xd974"
+        ],
+        "Glottolog_Name": "Kaurna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.489,
+          -17.0695
+        ]
+      },
+      "properties": {
+        "Name": "Kayardild",
+        "Glottocode": "kaya1319",
+        "xd_ids": [
+          "xd952"
+        ],
+        "Glottolog_Name": "Kayardild"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.602,
+          -21.5844
+        ]
+      },
+      "properties": {
+        "Name": "Kaytetye",
+        "Glottocode": "kayt1238",
+        "Glottolog_Name": "Kaytetye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.53965852318,
+          -38.155612905976
+        ]
+      },
+      "properties": {
+        "Name": "Keerraywoorroong",
+        "Glottocode": "warr1257",
+        "Glottolog_Name": "Warrnambool"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.273631,
+          -34.190056
+        ]
+      },
+      "properties": {
+        "Name": "Keramin",
+        "Glottocode": "nort2756",
+        "Glottolog_Name": "Northern Sunraysia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.983,
+          -22.7952
+        ]
+      },
+      "properties": {
+        "Name": "KingsCreekandtheGeorginaRiver",
+        "Glottocode": "pitt1247",
+        "Glottolog_Name": "Pitta Pitta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.608,
+          -16.181
+        ]
+      },
+      "properties": {
+        "Name": "KokNar",
+        "Glottocode": "kokn1236",
+        "Glottolog_Name": "Kok-Nar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.635,
+          -15.4296
+        ]
+      },
+      "properties": {
+        "Name": "KokoBera",
+        "Glottocode": "gugu1254",
+        "Glottolog_Name": "Gugubera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.599,
+          -13.4957
+        ]
+      },
+      "properties": {
+        "Name": "KuguNganhcara",
+        "Glottocode": "wikn1246",
+        "Glottolog_Name": "Wikngenchera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.168,
+          -17.8372
+        ]
+      },
+      "properties": {
+        "Name": "Kukatj",
+        "Glottocode": "guga1239",
+        "Glottolog_Name": "Gugadj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.666,
+          -20.3321
+        ]
+      },
+      "properties": {
+        "Name": "Kukatja",
+        "Glottocode": "kuka1246",
+        "Glottolog_Name": "Kukatja"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.569,
+          -12.713
+        ]
+      },
+      "properties": {
+        "Name": "KukuWura",
+        "Glottocode": "gugu1256",
+        "Glottolog_Name": "Roth's Gugu Warra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.188,
+          -16.0036
+        ]
+      },
+      "properties": {
+        "Name": "KukuYalanji",
+        "Glottocode": "kuku1273",
+        "xd_ids": [
+          "xd946"
+        ],
+        "Glottolog_Name": "Kuku-Yalanji"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.45,
+          -27.58
+        ]
+      },
+      "properties": {
+        "Name": "Kungadutyi",
+        "Glottocode": "ngur1261",
+        "Glottolog_Name": "Wilson River (Grey Range)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5365228,
+          -24.75108713
+        ]
+      },
+      "properties": {
+        "Name": "Kungkari",
+        "Glottocode": "kuun1236",
+        "Glottolog_Name": "Kuungkari of Barcoo River"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.53,
+          -16.6807
+        ]
+      },
+      "properties": {
+        "Name": "Kunjen",
+        "Glottocode": "kunj1245",
+        "Glottolog_Name": "Kunjen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.695,
+          -32.7021
+        ]
+      },
+      "properties": {
+        "Name": "Kurnu",
+        "Glottocode": "darl1243",
+        "xd_ids": [
+          "xd973"
+        ],
+        "Glottolog_Name": "Paakantyi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.51,
+          -22.2134
+        ]
+      },
+      "properties": {
+        "Name": "Kurrama",
+        "Glottocode": "kurr1243",
+        "Glottolog_Name": "Kurrama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.145,
+          -17.1653
+        ]
+      },
+      "properties": {
+        "Name": "Kurtjar",
+        "Glottocode": "gurd1238",
+        "Glottolog_Name": "Gurdjar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.034,
+          -14.8159
+        ]
+      },
+      "properties": {
+        "Name": "KuukThaayorre",
+        "Glottocode": "thay1249",
+        "Glottolog_Name": "Thayore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.165,
+          -12.4947
+        ]
+      },
+      "properties": {
+        "Name": "KuukuYau",
+        "Glottocode": "kuuk1238",
+        "Glottolog_Name": "Kuuku-Ya'u"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.41791,
+          -35.82105
+        ]
+      },
+      "properties": {
+        "Name": "LakeHindmarsh",
+        "Glottocode": "wotj1234",
+        "Glottolog_Name": "Wotjobaluk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4343,
+          -16.56152
+        ]
+      },
+      "properties": {
+        "Name": "Lardil",
+        "Glottocode": "lard1243",
+        "xd_ids": [
+          "xd951"
+        ],
+        "Glottolog_Name": "Lardil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.962,
+          -12.771375
+        ]
+      },
+      "properties": {
+        "Name": "Linngithigh",
+        "Glottocode": "leni1238",
+        "Glottolog_Name": "Linngithigh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.196,
+          -10.6748
+        ]
+      },
+      "properties": {
+        "Name": "Mabuiag",
+        "Glottocode": "kala1377",
+        "Glottolog_Name": "Kala Lagaw Ya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.245,
+          -26.211
+        ]
+      },
+      "properties": {
+        "Name": "Malgana",
+        "Glottocode": "malg1242",
+        "Glottolog_Name": "Malgana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9591946,
+          -29.49049805
+        ]
+      },
+      "properties": {
+        "Name": "Malyangapa",
+        "Glottocode": "yarl1236",
+        "Glottolog_Name": "Yarli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.769,
+          -18.6597
+        ]
+      },
+      "properties": {
+        "Name": "MangalaMcK",
+        "Glottocode": "mang1383",
+        "Glottolog_Name": "Mangala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.769,
+          -18.6597
+        ]
+      },
+      "properties": {
+        "Name": "MangalaNW",
+        "Glottocode": "mang1383",
+        "Glottolog_Name": "Mangala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.66842240336,
+          -23.350911655789
+        ]
+      },
+      "properties": {
+        "Name": "Manjiljarra",
+        "Glottocode": "mart1256",
+        "xd_ids": [
+          "xd958"
+        ],
+        "Glottolog_Name": "Martu Wangka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.892,
+          -26.789
+        ]
+      },
+      "properties": {
+        "Name": "Margany",
+        "Glottocode": "marg1253",
+        "Glottolog_Name": "Margany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.84021,
+          -22.51763
+        ]
+      },
+      "properties": {
+        "Name": "MartuWangka",
+        "Glottocode": "many1256",
+        "xd_ids": [
+          "xd958"
+        ],
+        "Glottolog_Name": "Manyjilyjara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.607,
+          -20.9294
+        ]
+      },
+      "properties": {
+        "Name": "Martuthunira",
+        "Glottocode": "mart1255",
+        "Glottolog_Name": "Martuthunira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1539929,
+          -25.44486229
+        ]
+      },
+      "properties": {
+        "Name": "MaryRiverandBunyaBunyaCountry",
+        "Glottocode": "kabi1260",
+        "Glottolog_Name": "Kabikabi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6694397,
+          -34.13829932
+        ]
+      },
+      "properties": {
+        "Name": "MathiMathi",
+        "Glottocode": "west2443",
+        "Glottolog_Name": "Western Victoria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.481,
+          -20.4352
+        ]
+      },
+      "properties": {
+        "Name": "MayiKulan",
+        "Glottocode": "mayk1239",
+        "Glottolog_Name": "Maykulan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.337,
+          -18.1147
+        ]
+      },
+      "properties": {
+        "Name": "MayiKutuna",
+        "Glottocode": "maya1280",
+        "Glottolog_Name": "Mayaguduna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.481,
+          -20.4352
+        ]
+      },
+      "properties": {
+        "Name": "MayiThakurti",
+        "Glottocode": "mayk1239",
+        "Glottolog_Name": "Maykulan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.481,
+          -20.4352
+        ]
+      },
+      "properties": {
+        "Name": "MayiYapi",
+        "Glottocode": "mayk1239",
+        "Glottolog_Name": "Maykulan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.438,
+          -20.1389
+        ]
+      },
+      "properties": {
+        "Name": "Mbabaram",
+        "Glottocode": "mbab1239",
+        "Glottolog_Name": "Mbabaram"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.755,
+          -12.395
+        ]
+      },
+      "properties": {
+        "Name": "Mbakwithi",
+        "Glottocode": "angu1242",
+        "Glottolog_Name": "Anguthimri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.2710997,
+          -12.89620501
+        ]
+      },
+      "properties": {
+        "Name": "Mbiywom",
+        "Glottocode": "mbiy1238",
+        "Glottolog_Name": "Mbiywom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.541931,
+          -17.736653
+        ]
+      },
+      "properties": {
+        "Name": "Minkin",
+        "Glottocode": "mink1237",
+        "Glottolog_Name": "Minkin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.05272,
+          -31.29733
+        ]
+      },
+      "properties": {
+        "Name": "Mirniny",
+        "Glottocode": "mirn1245",
+        "Glottolog_Name": "Mirniny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.598447,
+          -25.13606725
+        ]
+      },
+      "properties": {
+        "Name": "Mithaka",
+        "Glottocode": "mith1236",
+        "Glottolog_Name": "Mithaka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.7169306,
+          -37.06227181
+        ]
+      },
+      "properties": {
+        "Name": "Moneroo",
+        "Glottocode": "sout2771",
+        "Glottolog_Name": "Southern Coastal Yuin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.0,
+          -28.1667
+        ]
+      },
+      "properties": {
+        "Name": "MountFreelingDiyari",
+        "Glottocode": "dier1241",
+        "Glottolog_Name": "Dieri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.4853284,
+          -12.16733589
+        ]
+      },
+      "properties": {
+        "Name": "Mpalityan",
+        "Glottocode": "mpal1237",
+        "Glottolog_Name": "Mpalityanh-Luthigh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.329,
+          -16.7694
+        ]
+      },
+      "properties": {
+        "Name": "Mudburra",
+        "Glottocode": "mudb1240",
+        "Glottolog_Name": "Mudburra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.329,
+          -16.7694
+        ]
+      },
+      "properties": {
+        "Name": "MudburraMcC",
+        "Glottocode": "mudb1240",
+        "Glottolog_Name": "Mudburra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.153,
+          -28.1761
+        ]
+      },
+      "properties": {
+        "Name": "MuliarraTribe",
+        "Glottocode": "waja1257",
+        "Glottolog_Name": "Wajarri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.546,
+          -28.9618
+        ]
+      },
+      "properties": {
+        "Name": "Muruwari",
+        "Glottocode": "muru1266",
+        "Glottolog_Name": "Muruwari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.535,
+          -34.69
+        ]
+      },
+      "properties": {
+        "Name": "Narrungga",
+        "Glottocode": "naru1238",
+        "Glottolog_Name": "Narungga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.67,
+          -20.1494
+        ]
+      },
+      "properties": {
+        "Name": "NatalDowns",
+        "Glottocode": "biri1256",
+        "Glottolog_Name": "Biri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.99932761004,
+          -34.098823177692
+        ]
+      },
+      "properties": {
+        "Name": "NedsCornerStation",
+        "Glottocode": "uppe1415",
+        "Glottolog_Name": "Upper Riverland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.151,
+          -33.1199
+        ]
+      },
+      "properties": {
+        "Name": "NewNorciaandLeschenaultBay",
+        "Glottocode": "nyun1247",
+        "Glottolog_Name": "Nyunga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.602,
+          -25.7514
+        ]
+      },
+      "properties": {
+        "Name": "Ngaanyatjarra",
+        "Glottocode": "ngaa1240",
+        "xd_ids": [
+          "xd965"
+        ],
+        "Glottolog_Name": "Ngaanyatjarra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.46601,
+          -32.02447
+        ]
+      },
+      "properties": {
+        "Name": "Ngadjumaya",
+        "Glottocode": "ngad1258",
+        "xd_ids": [
+          "xd976"
+        ],
+        "Glottolog_Name": "Ngadjunmaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.08123163651,
+          -32.930160660336
+        ]
+      },
+      "properties": {
+        "Name": "Ngadjuri",
+        "Glottocode": "ngad1257",
+        "Glottolog_Name": "Ngadjuri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.273631,
+          -34.190056
+        ]
+      },
+      "properties": {
+        "Name": "Ngaiawang",
+        "Glottocode": "nort2756",
+        "Glottolog_Name": "Northern Sunraysia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.701,
+          -27.1797
+        ]
+      },
+      "properties": {
+        "Name": "Ngamini",
+        "Glottocode": "ngam1265",
+        "Glottolog_Name": "Ngamini-Yarluyandi-Karangura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.7169306,
+          -37.06227181
+        ]
+      },
+      "properties": {
+        "Name": "Ngarigu",
+        "Glottocode": "sout2771",
+        "Glottolog_Name": "Southern Coastal Yuin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.651,
+          -15.4661
+        ]
+      },
+      "properties": {
+        "Name": "Ngarinyman",
+        "Glottocode": "ngar1235",
+        "Glottolog_Name": "Ngarinman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.30579,
+          -20.20748
+        ]
+      },
+      "properties": {
+        "Name": "Ngarla",
+        "Glottocode": "ngar1296",
+        "Glottolog_Name": "Ngarla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.203,
+          -20.9235
+        ]
+      },
+      "properties": {
+        "Name": "Ngarluma",
+        "Glottocode": "ngar1287",
+        "Glottolog_Name": "Ngarluma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.158,
+          -36.2301
+        ]
+      },
+      "properties": {
+        "Name": "Ngarrindjeri",
+        "Glottocode": "narr1259",
+        "xd_ids": [
+          "xd975"
+        ],
+        "Glottolog_Name": "Narrinyeri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.471,
+          -19.4484
+        ]
+      },
+      "properties": {
+        "Name": "Ngawun",
+        "Glottocode": "ngaw1240",
+        "Glottolog_Name": "Ngawun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.859,
+          -28.3458
+        ]
+      },
+      "properties": {
+        "Name": "NggoiMwoi",
+        "Glottocode": "band1339",
+        "Glottolog_Name": "Bandjalangic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.886762,
+          -12.740575
+        ]
+      },
+      "properties": {
+        "Name": "Nggoth",
+        "Glottocode": "ngko1236",
+        "Glottolog_Name": "Ngkoth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.18,
+          -30.6481
+        ]
+      },
+      "properties": {
+        "Name": "Ngiyambaa",
+        "Glottocode": "wang1291",
+        "xd_ids": [
+          "xd784"
+        ],
+        "Glottolog_Name": "Ngiyambaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1,
+          -34.85
+        ]
+      },
+      "properties": {
+        "Name": "Ngunawal",
+        "Glottocode": "nort2760",
+        "Glottolog_Name": "Northern Inland Yuin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2680442,
+          -27.42523643
+        ]
+      },
+      "properties": {
+        "Name": "Nhanta",
+        "Glottocode": "nhan1238",
+        "Glottolog_Name": "Nhanda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.27596,
+          -28.62911
+        ]
+      },
+      "properties": {
+        "Name": "Nhirrpi",
+        "Glottocode": "nhir1234",
+        "Glottolog_Name": "Nhirrpi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.769,
+          -18.6597
+        ]
+      },
+      "properties": {
+        "Name": "NorthernMangarla",
+        "Glottocode": "mang1383",
+        "Glottolog_Name": "Mangala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.391,
+          -20.6271
+        ]
+      },
+      "properties": {
+        "Name": "NorthernNyangumarta",
+        "Glottocode": "nyan1301",
+        "Glottolog_Name": "Nyangumarta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.984,
+          -12.544
+        ]
+      },
+      "properties": {
+        "Name": "Ntrangith",
+        "Glottocode": "tyan1235",
+        "Glottolog_Name": "Tyanngayt-Mamngayt-Ntrwangayt-Ntrangit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.908,
+          -31.9899
+        ]
+      },
+      "properties": {
+        "Name": "Nukunu",
+        "Glottocode": "nugu1241",
+        "Glottolog_Name": "Nugunu (Australia)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.693,
+          -21.6092
+        ]
+      },
+      "properties": {
+        "Name": "Nyamal",
+        "Glottocode": "nyam1271",
+        "Glottolog_Name": "Nyamal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.391,
+          -20.6271
+        ]
+      },
+      "properties": {
+        "Name": "Nyangumarta",
+        "Glottocode": "nyan1301",
+        "Glottolog_Name": "Nyangumarta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.216,
+          -18.8743
+        ]
+      },
+      "properties": {
+        "Name": "Nyawaygi",
+        "Glottocode": "nyaw1247",
+        "Glottolog_Name": "Nyawaygi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.151,
+          -33.1199
+        ]
+      },
+      "properties": {
+        "Name": "Nyungar",
+        "Glottocode": "nyun1247",
+        "Glottolog_Name": "Nyunga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.695,
+          -32.7021
+        ]
+      },
+      "properties": {
+        "Name": "Paakantyi",
+        "Glottocode": "darl1243",
+        "xd_ids": [
+          "xd973"
+        ],
+        "Glottolog_Name": "Paakantyi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.74,
+          -15.0908
+        ]
+      },
+      "properties": {
+        "Name": "Pakanh",
+        "Glottocode": "paka1251",
+        "Glottolog_Name": "Pakanha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.91,
+          -36.08
+        ]
+      },
+      "properties": {
+        "Name": "Pallanganmiddang",
+        "Glottocode": "pall1243",
+        "Glottolog_Name": "Pallanganmiddang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.723,
+          -22.7816
+        ]
+      },
+      "properties": {
+        "Name": "Panyjima",
+        "Glottocode": "pany1241",
+        "Glottolog_Name": "Panytyima"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.079,
+          -33.3036
+        ]
+      },
+      "properties": {
+        "Name": "Parnkala",
+        "Glottocode": "bang1339",
+        "Glottolog_Name": "Banggarla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.108,
+          -23.3809
+        ]
+      },
+      "properties": {
+        "Name": "Payungu",
+        "Glottocode": "bayu1240",
+        "Glottolog_Name": "Bayungu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6694397,
+          -34.13829932
+        ]
+      },
+      "properties": {
+        "Name": "Piangil",
+        "Glottocode": "west2443",
+        "Glottolog_Name": "Western Victoria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.151,
+          -33.1199
+        ]
+      },
+      "properties": {
+        "Name": "Pinjarra",
+        "Glottocode": "nyun1247",
+        "Glottolog_Name": "Nyunga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.643,
+          -23.2963
+        ]
+      },
+      "properties": {
+        "Name": "PintupiLuritja",
+        "Glottocode": "pint1250",
+        "xd_ids": [
+          "xd960"
+        ],
+        "Glottolog_Name": "Pintupi-Luritja"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5485119,
+          -25.48006595
+        ]
+      },
+      "properties": {
+        "Name": "Pirriya",
+        "Glottocode": "pirr1240",
+        "Glottolog_Name": "Pirriya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.357,
+          -26.9704
+        ]
+      },
+      "properties": {
+        "Name": "Pitjantjatjara",
+        "Glottocode": "pitj1243",
+        "xd_ids": [
+          "xd967"
+        ],
+        "Glottolog_Name": "Pitjantjatjara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.983,
+          -22.7952
+        ]
+      },
+      "properties": {
+        "Name": "PittaPitta",
+        "Glottocode": "pitt1247",
+        "Glottolog_Name": "Pitta Pitta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3490464,
+          -33.52925837
+        ]
+      },
+      "properties": {
+        "Name": "PortMacQuarie",
+        "Glottocode": "sydn1236",
+        "Glottolog_Name": "Sydney"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0,
+          -27.33
+        ]
+      },
+      "properties": {
+        "Name": "Punthamara",
+        "Glottocode": "punt1240",
+        "Glottolog_Name": "Punthamara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.658,
+          -22.9646
+        ]
+      },
+      "properties": {
+        "Name": "Purduna",
+        "Glottocode": "burd1238",
+        "Glottolog_Name": "Burduna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.158,
+          -36.2301
+        ]
+      },
+      "properties": {
+        "Name": "PytuReach",
+        "Glottocode": "narr1259",
+        "Glottolog_Name": "Narrinyeri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.259,
+          -13.4559
+        ]
+      },
+      "properties": {
+        "Name": "Ritharrngu",
+        "Glottocode": "rita1239",
+        "Glottolog_Name": "Ritharrngu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.983,
+          -22.7952
+        ]
+      },
+      "properties": {
+        "Name": "RoxburghDowns-LowerGeorgina",
+        "Glottocode": "pitt1247",
+        "Glottolog_Name": "Pitta Pitta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.113,
+          -19.7229
+        ]
+      },
+      "properties": {
+        "Name": "SouthernWalmajarri",
+        "Glottocode": "walm1241",
+        "Glottolog_Name": "Walmajarri-Juwaliny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.107,
+          -32.4806
+        ]
+      },
+      "properties": {
+        "Name": "SteeleGDG",
+        "Glottocode": "wori1245",
+        "Glottolog_Name": "Worimi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6694397,
+          -34.13829932
+        ]
+      },
+      "properties": {
+        "Name": "THETATIARRACOUNTRY",
+        "Glottocode": "west2443",
+        "Glottolog_Name": "Western Victoria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.96122717197,
+          -18.1973276258
+        ]
+      },
+      "properties": {
+        "Name": "Tagalag",
+        "Glottocode": "taga1279",
+        "Glottolog_Name": "Tagalaka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.273359,
+          -25.192664
+        ]
+      },
+      "properties": {
+        "Name": "Tambo",
+        "Glottocode": "bidy1243",
+        "Glottolog_Name": "Bidyara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.082,
+          -27.803
+        ]
+      },
+      "properties": {
+        "Name": "Tenterfield",
+        "Glottocode": "yuga1244",
+        "Glottolog_Name": "Yugambal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.937,
+          -22.196
+        ]
+      },
+      "properties": {
+        "Name": "Thalanyji",
+        "Glottocode": "dhal1245",
+        "Glottolog_Name": "Dhalandji"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.602,
+          -30.8469
+        ]
+      },
+      "properties": {
+        "Name": "Thanggatti",
+        "Glottocode": "dyan1250",
+        "Glottolog_Name": "Dyangadi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.847,
+          -24.0601
+        ]
+      },
+      "properties": {
+        "Name": "Tharrgari",
+        "Glottocode": "dhar1247",
+        "Glottolog_Name": "Dhargari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.938,
+          -12.5324
+        ]
+      },
+      "properties": {
+        "Name": "Thaynakwith",
+        "Glottocode": "alng1239",
+        "Glottolog_Name": "Alngith"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.721,
+          -34.634
+        ]
+      },
+      "properties": {
+        "Name": "Thurrawal",
+        "Glottocode": "thur1254",
+        "Glottolog_Name": "Thurawal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6694397,
+          -34.13829932
+        ]
+      },
+      "properties": {
+        "Name": "Tjapwurrung",
+        "Glottocode": "west2443",
+        "Glottolog_Name": "Western Victoria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.082,
+          -27.803
+        ]
+      },
+      "properties": {
+        "Name": "TweedRiverandPointDangar",
+        "Glottocode": "yuga1244",
+        "Glottolog_Name": "Yugambal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.467,
+          -13.1528
+        ]
+      },
+      "properties": {
+        "Name": "Umpila",
+        "Glottocode": "umpi1239",
+        "xd_ids": [
+          "xd945"
+        ],
+        "Glottolog_Name": "Umpila"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.328,
+          -13.921
+        ]
+      },
+      "properties": {
+        "Name": "Umpithamu",
+        "Glottocode": "umbi1243",
+        "Glottolog_Name": "Umbindhamu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.868,
+          -26.248
+        ]
+      },
+      "properties": {
+        "Name": "UpperBrisbaneRiver",
+        "Glottocode": "waka1274",
+        "Glottolog_Name": "Wakawaka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.273359,
+          -25.192664
+        ]
+      },
+      "properties": {
+        "Name": "UpperParoo",
+        "Glottocode": "bidy1243",
+        "Glottolog_Name": "Bidyara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0879,
+          -11.971
+        ]
+      },
+      "properties": {
+        "Name": "Uradhi",
+        "Glottocode": "wuth1237",
+        "Glottolog_Name": "Wuthathi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9591946,
+          -29.49049805
+        ]
+      },
+      "properties": {
+        "Name": "Wadikali",
+        "Glottocode": "yarl1236",
+        "Glottolog_Name": "Yarli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.273359,
+          -25.192664
+        ]
+      },
+      "properties": {
+        "Name": "Wadjabangayi",
+        "Glottocode": "bidy1243",
+        "Glottolog_Name": "Bidyara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.153,
+          -28.1761
+        ]
+      },
+      "properties": {
+        "Name": "Wajarri",
+        "Glottocode": "waja1257",
+        "Glottolog_Name": "Wajarri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.868,
+          -26.248
+        ]
+      },
+      "properties": {
+        "Name": "WakaWaka",
+        "Glottocode": "waka1274",
+        "xd_ids": [
+          "xd961"
+        ],
+        "Glottolog_Name": "Wakawaka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.623,
+          -20.329
+        ]
+      },
+      "properties": {
+        "Name": "Wakaya",
+        "Glottocode": "waga1260",
+        "Glottolog_Name": "Wagaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.4891266,
+          -17.60243295
+        ]
+      },
+      "properties": {
+        "Name": "Walangama",
+        "Glottocode": "wala1263",
+        "Glottolog_Name": "Walangama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.113,
+          -19.7229
+        ]
+      },
+      "properties": {
+        "Name": "WalmajarriBilliluna",
+        "Glottocode": "walm1241",
+        "Glottolog_Name": "Walmajarri-Juwaliny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.113,
+          -19.7229
+        ]
+      },
+      "properties": {
+        "Name": "WalmajarriHR",
+        "Glottocode": "walm1241",
+        "Glottolog_Name": "Walmajarri-Juwaliny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.113,
+          -19.7229
+        ]
+      },
+      "properties": {
+        "Name": "WalmajarriNW",
+        "Glottocode": "walm1241",
+        "Glottolog_Name": "Walmajarri-Juwaliny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.53434,
+          -20.26868
+        ]
+      },
+      "properties": {
+        "Name": "Wangkajunga",
+        "Glottocode": "wang1288",
+        "Glottolog_Name": "Wangkajunga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.941,
+          -25.8148
+        ]
+      },
+      "properties": {
+        "Name": "Wangkangurru",
+        "Glottocode": "wang1290",
+        "Glottolog_Name": "Wangganguru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.632,
+          -29.806
+        ]
+      },
+      "properties": {
+        "Name": "Wangkatja",
+        "Glottocode": "pint1251",
+        "Glottolog_Name": "Pintiini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.433,
+          -24.7022
+        ]
+      },
+      "properties": {
+        "Name": "Wangkayutyuru",
+        "Glottocode": "wang1289",
+        "Glottolog_Name": "Wanggamala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.19619,
+          -27.10149
+        ]
+      },
+      "properties": {
+        "Name": "Wangkumara",
+        "Glottocode": "wong1246",
+        "Glottolog_Name": "Wangkumara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.19619,
+          -27.10149
+        ]
+      },
+      "properties": {
+        "Name": "WangkumaraMcDWur",
+        "Glottocode": "wong1246",
+        "Glottolog_Name": "Wangkumara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.151,
+          -33.1199
+        ]
+      },
+      "properties": {
+        "Name": "Wardandi",
+        "Glottocode": "nyun1247",
+        "Glottolog_Name": "Nyunga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.179,
+          -18.5468
+        ]
+      },
+      "properties": {
+        "Name": "Wargamay",
+        "Glottocode": "warr1255",
+        "Glottolog_Name": "Warrgamay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.862,
+          -18.949
+        ]
+      },
+      "properties": {
+        "Name": "Warlmanpa",
+        "Glottocode": "warl1255",
+        "Glottolog_Name": "Warlmanpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.05,
+          -20.1008
+        ]
+      },
+      "properties": {
+        "Name": "Warlpiri",
+        "Glottocode": "warl1254",
+        "xd_ids": [
+          "xd773"
+        ],
+        "Glottolog_Name": "Warlpiri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.738,
+          -22.2909
+        ]
+      },
+      "properties": {
+        "Name": "Warluwarra",
+        "Glottocode": "warl1256",
+        "Glottolog_Name": "Warluwara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.325,
+          -22.7078
+        ]
+      },
+      "properties": {
+        "Name": "Warnman",
+        "Glottocode": "wanm1242",
+        "xd_ids": [
+          "xd959"
+        ],
+        "Glottolog_Name": "Wanman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.927,
+          -24.353
+        ]
+      },
+      "properties": {
+        "Name": "Warriyangga",
+        "Glottocode": "wari1262",
+        "Glottolog_Name": "Wariyangga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.53965852318,
+          -38.155612905976
+        ]
+      },
+      "properties": {
+        "Name": "Warrnambool",
+        "Glottocode": "warr1257",
+        "Glottolog_Name": "Warrnambool"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.375,
+          -20.6479
+        ]
+      },
+      "properties": {
+        "Name": "Warumungu",
+        "Glottocode": "waru1265",
+        "Glottolog_Name": "Warumungu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.37,
+          -18.2496
+        ]
+      },
+      "properties": {
+        "Name": "Warungu",
+        "Glottocode": "waru1264",
+        "xd_ids": [
+          "xd955"
+        ],
+        "Glottolog_Name": "Warrongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1013148,
+          -37.68777565
+        ]
+      },
+      "properties": {
+        "Name": "Wathawurrung",
+        "Glottocode": "wath1238",
+        "Glottolog_Name": "Wathawurrung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6694397,
+          -34.13829932
+        ]
+      },
+      "properties": {
+        "Name": "Wathiwathi",
+        "Glottocode": "west2443",
+        "Glottolog_Name": "Western Victoria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.151,
+          -33.1199
+        ]
+      },
+      "properties": {
+        "Name": "Watjuk",
+        "Glottocode": "nyun1247",
+        "Glottolog_Name": "Nyunga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5,
+          -34.6
+        ]
+      },
+      "properties": {
+        "Name": "Wellington",
+        "Glottocode": "lowe1402",
+        "Glottolog_Name": "Lower Riverland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6694397,
+          -34.13829932
+        ]
+      },
+      "properties": {
+        "Name": "WembaWemba",
+        "Glottocode": "west2443",
+        "Glottolog_Name": "Western Victoria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.24621,
+          -24.05052
+        ]
+      },
+      "properties": {
+        "Name": "WesternArrarnta",
+        "Glottocode": "west2441",
+        "Glottolog_Name": "Western Arrarnta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.625,
+          -14.0959
+        ]
+      },
+      "properties": {
+        "Name": "WikMuminh",
+        "Glottocode": "kuku1283",
+        "Glottolog_Name": "Kuku-Muminh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.81611,
+          -13.98051
+        ]
+      },
+      "properties": {
+        "Name": "WikMungkan",
+        "Glottocode": "wikm1247",
+        "xd_ids": [
+          "xd781"
+        ],
+        "Glottolog_Name": "Wik-Mungkan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.557,
+          -13.6835
+        ]
+      },
+      "properties": {
+        "Name": "WikNgatharr",
+        "Glottocode": "wika1238",
+        "Glottolog_Name": "Wikalkan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.994,
+          -34.0742
+        ]
+      },
+      "properties": {
+        "Name": "Wiradjuri",
+        "Glottocode": "wira1262",
+        "Glottolog_Name": "Wiradhuri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0,
+          -32.0
+        ]
+      },
+      "properties": {
+        "Name": "Wirangu",
+        "Glottocode": "wira1265",
+        "xd_ids": [
+          "xd972"
+        ],
+        "Glottolog_Name": "Wirangu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5879962,
+          -37.64264501
+        ]
+      },
+      "properties": {
+        "Name": "Woiwurrung",
+        "Glottocode": "woiw1237",
+        "xd_ids": [
+          "xd978"
+        ],
+        "Glottolog_Name": "Woiwurrung-Thagungwurrung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.3453957,
+          -19.85103121
+        ]
+      },
+      "properties": {
+        "Name": "Wulguru",
+        "Glottocode": "wulg1239",
+        "Glottolog_Name": "Wulguru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.01,
+          -35.9
+        ]
+      },
+      "properties": {
+        "Name": "YabulaYabula",
+        "Glottocode": "yort1237",
+        "Glottolog_Name": "Yorta Yorta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.725,
+          -11.314
+        ]
+      },
+      "properties": {
+        "Name": "Yadhaykenu",
+        "Glottocode": "yadh1237",
+        "Glottolog_Name": "Yadhaykenu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.4602773,
+          -27.87647555
+        ]
+      },
+      "properties": {
+        "Name": "Yagara",
+        "Glottocode": "yaga1256",
+        "xd_ids": [
+          "xd962"
+        ],
+        "Glottolog_Name": "Yagara-Jandai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.511,
+          -21.731
+        ]
+      },
+      "properties": {
+        "Name": "Yalarnnga",
+        "Glottocode": "yala1262",
+        "Glottolog_Name": "Yalarnnga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.67,
+          -20.1494
+        ]
+      },
+      "properties": {
+        "Name": "Yambina",
+        "Glottocode": "biri1256",
+        "Glottolog_Name": "Biri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5134756,
+          -21.23270508
+        ]
+      },
+      "properties": {
+        "Name": "Yanda",
+        "Glottocode": "yand1251",
+        "Glottolog_Name": "Yanda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.583,
+          -28.4744
+        ]
+      },
+      "properties": {
+        "Name": "Yandruwandha",
+        "Glottocode": "yand1253",
+        "Glottolog_Name": "Yandruwandha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.023,
+          -16.74
+        ]
+      },
+      "properties": {
+        "Name": "Yangarella",
+        "Glottocode": "nyan1300",
+        "Glottolog_Name": "Yangkaal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.023,
+          -16.74
+        ]
+      },
+      "properties": {
+        "Name": "Yangkaal",
+        "Glottocode": "nyan1300",
+        "Glottolog_Name": "Yangkaal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.877,
+          -12.0853
+        ]
+      },
+      "properties": {
+        "Name": "Yannhangu",
+        "Glottocode": "yann1237",
+        "Glottolog_Name": "Nhangu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.055,
+          -15.7621
+        ]
+      },
+      "properties": {
+        "Name": "Yanyuwa",
+        "Glottocode": "yany1243",
+        "Glottolog_Name": "Yanyuwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9591946,
+          -29.49049805
+        ]
+      },
+      "properties": {
+        "Name": "Yardliyawarra",
+        "Glottocode": "yarl1236",
+        "Glottolog_Name": "Yarli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.58436,
+          -25.83705
+        ]
+      },
+      "properties": {
+        "Name": "Yarluyandi",
+        "Glottocode": "yarl1238",
+        "Glottolog_Name": "Yarluyandi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.871,
+          -26.7334
+        ]
+      },
+      "properties": {
+        "Name": "Yawarrawarrka",
+        "Glottocode": "yawa1258",
+        "Glottolog_Name": "Yawarawarga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.18784362556,
+          -29.686722970453
+        ]
+      },
+      "properties": {
+        "Name": "Yaygirr",
+        "Glottocode": "yayg1236",
+        "Glottolog_Name": "Yaygir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.876,
+          -17.1332
+        ]
+      },
+      "properties": {
+        "Name": "Yidiny",
+        "Glottocode": "yidi1250",
+        "Glottolog_Name": "Yidi\u00f1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.001,
+          -21.5379
+        ]
+      },
+      "properties": {
+        "Name": "Yindjibarndi",
+        "Glottocode": "yind1247",
+        "Glottolog_Name": "Yindjibarndi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5894,
+          -19.24252
+        ]
+      },
+      "properties": {
+        "Name": "Yindjilandji",
+        "Glottocode": "yind1248",
+        "Glottolog_Name": "Yindjilandji"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.58,
+          -25.4446
+        ]
+      },
+      "properties": {
+        "Name": "Yingkarta",
+        "Glottocode": "ying1247",
+        "Glottolog_Name": "Yinggarda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.723,
+          -22.7816
+        ]
+      },
+      "properties": {
+        "Name": "Yinhawangka",
+        "Glottocode": "pany1241",
+        "Glottolog_Name": "Panytyima"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.273359,
+          -25.192664
+        ]
+      },
+      "properties": {
+        "Name": "Yiningay",
+        "Glottocode": "bidy1243",
+        "Glottolog_Name": "Bidyara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7036225,
+          -12.52068956
+        ]
+      },
+      "properties": {
+        "Name": "Yinwum",
+        "Glottocode": "yinw1236",
+        "Glottolog_Name": "Yinwum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.767,
+          -15.1117
+        ]
+      },
+      "properties": {
+        "Name": "YirYoront",
+        "Glottocode": "yiry1245",
+        "Glottolog_Name": "Yir-Yoront"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9625916,
+          -20.65810118
+        ]
+      },
+      "properties": {
+        "Name": "Yirandali",
+        "Glottocode": "yira1239",
+        "Glottolog_Name": "Yirandhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.22,
+          -33.89
+        ]
+      },
+      "properties": {
+        "Name": "YithaYitha",
+        "Glottocode": "yith1234",
+        "Glottolog_Name": "Yitha Yitha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.01,
+          -35.9
+        ]
+      },
+      "properties": {
+        "Name": "YortaYorta",
+        "Glottocode": "yort1237",
+        "Glottolog_Name": "Yorta Yorta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.4602773,
+          -27.87647555
+        ]
+      },
+      "properties": {
+        "Name": "Yugarabul",
+        "Glottocode": "yaga1256",
+        "Glottolog_Name": "Yagara-Jandai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.543,
+          -29.9037
+        ]
+      },
+      "properties": {
+        "Name": "Yuwaalaraay",
+        "Glottocode": "gami1243",
+        "xd_ids": [
+          "xd970"
+        ],
+        "Glottolog_Name": "Yuwaalaraay-Gamilaraay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.008,
+          -12.7825
+        ]
+      },
+      "properties": {
+        "Name": "Zorc",
+        "Glottocode": "dhuw1249",
+        "Glottolog_Name": "Dhuwal"
+      }
+    }
+  ]
+}

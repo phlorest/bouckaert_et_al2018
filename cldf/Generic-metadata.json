@@ -32,20 +32,20 @@
         {
             "rdf:about": "https://github.com/phlorest/bouckaert_et_al2018",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-1-gec1b0be",
+            "dc:created": "v1.1-2-g606805a",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.8",
+            "dc:created": "v5.0",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.10.12"
+            "dc:description": "3.13.1"
         },
         {
             "dc:title": "python-packages",
