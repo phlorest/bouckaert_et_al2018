@@ -2,9 +2,9 @@
 
 Name                           | GitHub user | Description | Role
 ---                            | ---         | --- | ---
-Bouckaert, Remco R.            |  | author | Author
-Bowern, Claire                 |  | author | Author
-Atkinson, Quentin D.           |  | author | Author
+Remco R. Bouckaert             |  | author | Author
+Claire Bowern                  |  | author | Author
+Quentin D. Atkinson            |  | author | Author
 Simon J. Greenhill             | @SimonGreenhill | maintainer | Editor
-Robert Forkel             | @xrotwang | maintainer | Editor
+Robert Forkel                  | @xrotwang | maintainer | Editor
 
