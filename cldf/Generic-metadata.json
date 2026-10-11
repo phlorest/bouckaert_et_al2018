@@ -32,7 +32,7 @@
         {
             "rdf:about": "https://github.com/phlorest/bouckaert_et_al2018",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.2-6-g87bf816",
+            "dc:created": "v1.2-8-gb41219d",
             "dc:title": "Repository"
         },
         {
